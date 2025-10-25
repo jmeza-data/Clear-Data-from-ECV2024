@@ -1,4 +1,4 @@
-<div style="background-color:white; color:white; padding:25px;">
+<div style="background-color:white; color:black; padding:35px; border-radius:15px; font-family:Segoe UI, Roboto, sans-serif;">
 
 # 🧮 Análisis de la Encuesta de Calidad de Vida (ECV) 2024 — Limpieza, Visualización e Interpretación
 
