@@ -1,3 +1,5 @@
+<div style="background-color:white; color:white; padding:25px;">
+
 # 🧮 Análisis de la Encuesta de Calidad de Vida (ECV) 2024 — Limpieza, Visualización e Interpretación
 
 **Autor:** Jhoan Sebastián Meza García  
@@ -187,4 +189,5 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Repositorio:**  
 [github.com/jhoanmeza/ECV2024-IPM](https://github.com/jhoanmeza/ECV2024-IPM)
 
+</div>
 
